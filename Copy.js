@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Copy
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      0.1
 // @description  try to take over the world!
-// @author       Jan S.
+// @author       You
 // @match        https://arcelormittalprod.service-now.com/*
 // @grant        GM_setClipboard
 // ==/UserScript==
